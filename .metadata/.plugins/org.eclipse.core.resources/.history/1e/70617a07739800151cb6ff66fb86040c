@@ -1,0 +1,19 @@
+class test{
+	int pi=3;
+	 //final int	pi=2;
+	
+	
+	
+	
+}
+public class checking {
+public static void main(String[] args)
+{test t=new test();
+System.out.println(t.pi);
+	checking che=new checking();
+	// System.out.println(che.pi);
+	
+	
+	
+}
+}

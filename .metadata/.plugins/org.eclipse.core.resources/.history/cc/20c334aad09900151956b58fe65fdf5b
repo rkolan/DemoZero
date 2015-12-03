@@ -1,0 +1,6 @@
+import Robot.work;
+
+
+public class Work extends work {
+
+}

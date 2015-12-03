@@ -1,0 +1,21 @@
+
+public class Robot {
+	int id;
+	
+	private class work{
+		public void abc{
+			System.out.println("Robot with" + id + "has started working");
+		}
+	}
+	
+public Robot(int id){
+this.id=id;
+}
+
+public void start(){
+	System.out.println("Robot is starting");
+
+work w=new Work();
+w.abc();
+}
+}

@@ -1,0 +1,19 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		calculate(5);
+	
+	}
+
+	private static void calculate(int i) {
+System.out.println(i);
+
+if(i==0){
+	return;
+}
+calculate(i-1);
+		
+	}
+
+}

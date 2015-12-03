@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;glassfish-web.xml&apos; to &apos;hw5&apos;" description="Move &apos;glassfish-web.xml&apos; to &apos;hw5&apos;" destination="/hw5" element1="WEB-INF/glassfish-web.xml" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1448894665405" updateReferences="true"/>
+</session>

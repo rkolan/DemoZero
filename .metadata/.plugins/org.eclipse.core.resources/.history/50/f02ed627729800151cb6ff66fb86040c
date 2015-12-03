@@ -1,0 +1,11 @@
+
+public class checking {
+final  int pi=2;
+
+public static void main(String[] args)
+{
+	checking che=new checking();
+	System.out.println(pi);
+	
+}
+}

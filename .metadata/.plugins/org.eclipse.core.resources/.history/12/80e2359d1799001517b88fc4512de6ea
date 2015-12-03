@@ -1,0 +1,9 @@
+
+public class Inheritance {
+
+	Plant p= new Plant();
+	Tree t=new Tree();
+	Plant p1=t();
+	
+	
+}
